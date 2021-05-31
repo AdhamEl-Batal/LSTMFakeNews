@@ -9,3 +9,7 @@ While the main engine of the code (`train.py` and `model.py`) files are pretty m
 Once I am satisfied with the results of the analysis in the Jupyter notebook, I will include more detailed results on deployment and usage in this README.
 
 But for now, the notebook has lots of information on pre-processing and fitting and so on!
+
+
+
+Some code has been adapted from the Udacity Machine Learning Engineer first course project.
