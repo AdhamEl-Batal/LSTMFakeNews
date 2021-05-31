@@ -8,7 +8,7 @@ While the main engine of the code (`train.py` and `model.py`) files are pretty m
 
 Once I am satisfied with the results of the analysis in the Jupyter notebook, I will include more detailed results on deployment and usage in this README.
 
-But for now, the notebook has lots of information on pre-processing and fitting and so on!
+But for now, feel free to download the HTML file and view in the browser of your choice. It has a lot of information on how to pre-process and train the data!
 
 
 
