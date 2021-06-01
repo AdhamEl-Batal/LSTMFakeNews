@@ -8,7 +8,7 @@ While the main engine of the code (`train.py` and `model.py`) files are pretty m
 
 Once I am satisfied with the results of the analysis in the Jupyter notebook, I will include more detailed results on deployment and usage in this README.
 
-But for now, feel free to download the HTML file and view in the browser of your choice. It has a lot of information on how to pre-process and train the data!
+But for now, feel free to view the analysis here: https://htmlpreview.github.io/?https://github.com/AdhamEl-Batal/LSTMFakeNews/blob/main/LSTMFakeNew_Jupyter_Analysis.html
 
 
 
